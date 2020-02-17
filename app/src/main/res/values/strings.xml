@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Android-MVVM-Beginner</string>
+    <string name="please_check_internet_connection" translatable="false">Please check your internet connection</string>
+    <string name="enter_email_mobile_number">Enter Email / Mobile Number</string>
+    <string name="email_mobile_number">Email / Mobile Number</string>
+    <string name="password_otp">Password / OTP</string>
+    <string name="login">Login</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="txt_continue">Continue</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="login_with_password">Login With Password</string>
+    <string name="password">Password</string>
+    <string name="enter_password_otp">Enter Password / OTP</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="user_id_empty">Email / Mobile No is Empty</string>
+    <string name="valid_user_id">Enter valid Email / Mobile No</string>
+    <string name="valid_otp">Enter valid one time password</string>
+    <string name="valid_mobile_no">Enter valid mobile number</string>
+    <string name="enter_otp">Enter valid OTP</string>
+    <string name="password_empty">Password is Empty</string>
+    <string name="get_one_time_password_otp">Get One Time Password (OTP)</string>
+    <string name="or">or</string>
+    <string name="forget_password">Forget Password ?</string>
+</resources>

@@ -2,7 +2,7 @@ package com.prakash.android_mvvm_beginner;
 
 import android.app.Application;
 
-public class NirogApplication extends Application {
+public class MyApplication extends Application {
 
 
     @Override

@@ -134,7 +134,7 @@ public class SplashActivity extends AppCompatActivity {
         update.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.app.nirogstreet"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.app"));
                 startActivity(intent);
             }
         });
